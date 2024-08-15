@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahin Patel</h1>
 <h3 align="center">A passionate Developer from Jacksonville,AL</h3>
 
-- 🔭 I’m currently working on **AI-Customer chat bot**
+- 🔭 I’m currently working on **AI-Flashcard*
 
 - 🌱 I’m currently learning **Node.js, Java, mongoDB**
 
