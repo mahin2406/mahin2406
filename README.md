@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *AI-Flashcard*
 
-- 🌱 I’m currently learning **Node.js, Java, firebase**
+- 🌱 I’m currently learning **Node.js, Java, firebase, DSA in C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
