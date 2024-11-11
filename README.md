@@ -36,9 +36,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin2406&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahin2406&theme=dark" alt="GitHub Streak" /></a>
 </div>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahin2406&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a> -->
+<!---
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahin2406&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a> 
+</div> --->
 
