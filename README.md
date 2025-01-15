@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *Learning DSA*
 
-- 🌱 I’m currently learning **Node.js, Java, firebase, DSA in python**
+- 🌱 I’m currently learning **Node.js, React.js, SQL, DSA in python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
