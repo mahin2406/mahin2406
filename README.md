@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahin Patel</h1>
 <h3 align="center">A passionate Developer from Jacksonville,AL</h3>
 
-- 🔭 I’m currently working on *Learning DSA*
+- 🔭 I’m currently working on *Practicing DSA*
 
-- 🌱 I’m currently learning **Node.js, React.js, SQL, DSA in python**
+- 🌱 I’m currently learning **Node.js, React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
